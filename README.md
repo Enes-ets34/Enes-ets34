@@ -1,35 +1,33 @@
-<h2 align="center">Hi There 🖖🏼</h2>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/Enes-ets34" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enes taha sarı" height="30" width="30" /></a>
-<a href="https://instagram.com/enes-ets34" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enes taha sarı" height="30" width="30" /></a>
+**Hey There!**
+
+**I'm Enes self-taught frontend and backend developer from Turkey.**
+
+🌱 I’m currently learning **Javascript, Vue.js, Node.js, Docker**<br>💬 Ask me about Vue.js, Javascript,Tailwind<br>📫 How to reach me ets.34.es@gmail.com
 
 
-</p> 
-  
-<h2 align="center"><strong>Technologies<strong></h2>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-<a href="https://vuejs.org/" target="__blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="__blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-
-<h3 align="center">Backend</h3>
-<p align="center">  
-<a href="https://nodejs.org" target="__blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="__blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="background:white" alt="express" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="__blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-</p>
+## Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-ets34/)
 
 
-<h3 align="center">Software and Tools</h3>
-<p align="center"
-<a href="https://postman.com" target="__blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+## Tech Stack 💪🏼
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) [![Vuex](https://img.shields.io/badge/-Vuex-4FC08D?style=for-the-badge&logo=vuex&logoColor=white)](https://vuex.vuejs.org/) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+ ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) [![Bootstrap](https://img.shields.io/badge/bootstrap-%237811f7.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338bdf9.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) [![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/) [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org/) [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+
+
+## GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Enes-ets34&theme=radical&hide_border=true&include_all_commits=false&count_private=false) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Enes-ets34&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Enes-ets34&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 
 
 
-<!---
-Enes-ets34/Enes-ets34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Enes-ets34&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
+
+
+
+![](https://komarev.com/ghpvc/?username=Enes-ets34&style=flat-square)
