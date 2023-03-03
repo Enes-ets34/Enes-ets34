@@ -6,7 +6,7 @@
 
 
 ## Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-ets34/)
+[[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]{:target="_blank"}](https://www.linkedin.com/in/enes-ets34/)
 
 
 ## Tech Stack 💪🏼
