@@ -21,7 +21,8 @@
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Enes-ets34&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
-![Enes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enes-ets34&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enes-ets34)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
