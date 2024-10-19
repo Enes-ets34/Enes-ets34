@@ -2,7 +2,7 @@
 
 **I'm Enes self-taught frontend and backend developer from Turkey.**
 
-🔭 I’m currently learning **Javascript, React**<br>💬 Ask me about Vue.js, React, Typescript, Javascript,Tailwind<br>📫 How to reach me ets.34.es@gmail.com
+🔭 I’m currently learning **Typescript, Reacti Nest**<br>💬 Ask me about Vue.js, React, Typescript, Javascript,Tailwind<br>📫 How to reach me ets.34.es@gmail.com
 
 ## Connect With Me
 
